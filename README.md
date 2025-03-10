@@ -2,6 +2,8 @@
 
 Este proyecto demuestra cómo integrar **Elasticsearch**, **Logstash** y **Kibana** (ELK Stack) con una aplicación **Spring Boot** para almacenar y visualizar logs de una API REST.  
 
+[![Tutorial completo ELK Stack](https://i9.ytimg.com/vi_webp/9evQP_OAIrc/mqdefault.webp?v=67cedcd8&sqp=CKC7u74G&rs=AOn4CLDG0MQTx__g3wycb2LwC54dhcydCQ)](https://youtu.be/9evQP_OAIrc "Tutorial completo ELK Stack")
+
 ---
 
 ## 📌 **Tabla de Contenidos**  
