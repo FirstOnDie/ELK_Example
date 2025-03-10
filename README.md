@@ -38,7 +38,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 1️⃣ **Clonar el repositorio:**  
 ```sh
-git clone https://github.com/tu-usuario/elk-springboot.git
+git clone https://github.com/FirstOnDie/elk-springboot.git
 cd elk-springboot
 ```
 
