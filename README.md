@@ -12,8 +12,6 @@ Este proyecto demuestra cómo integrar **Elasticsearch**, **Logstash** y **Kiban
 - [🚀 Ejecución de la Aplicación](#-ejecución-de-la-aplicación)  
 - [🔎 Visualización en Kibana](#-visualización-en-kibana)  
 - [📊 Creación de Dashboards](#-creación-de-dashboards)  
-- [💡 Próximos Pasos](#-próximos-pasos)  
-- [📜 Licencia](#-licencia)  
 
 ---
 
